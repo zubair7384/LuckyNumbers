@@ -9,6 +9,7 @@
     "animate.css": "^4.1.1",
     "bootstrap": "^5.2.2",
     "brain.js": "^2.0.0-beta.16",
+    "neuro.js": "^0.1.7",
     "react": "^18.2.0",
     "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",

@@ -40,8 +40,7 @@
   background: black;
   color: rgb(255, 255, 255);
   border-radius: 100%;
-  background: radial-gradient(circle at 60px 80px, #c48a16, #ffbd39);
-  box-shadow: 1px 8px 8px -4px rgba(0, 0, 0, 0.6);
+  background: radial-gradient(circle at 60px 80px, #ffbd39, #ffbd39);
 }
 @media only screen and (max-width: 600px) {
   .custom-btn {
@@ -166,7 +165,7 @@
     width: 10px;
   }
 
-  95 {
+  95% {
     box-shadow: 0px 40px 0px 0px #ffbd39, 0px -40px 0px 0px #ffbd39,
       40px 0px 0px 0px #ffbd39, -40px 0px 0px 0px #ffbd39,
       40px 40px 0px 0px #ffbd39, -40px -40px 0px 0px #ffbd39,
@@ -249,7 +248,7 @@
     width: 10px;
   }
 
-  95 {
+  95% {
     box-shadow: 0px 40px 0px 0px #ffbd39, 0px -40px 0px 0px #ffbd39,
       40px 0px 0px 0px #ffbd39, -40px 0px 0px 0px #ffbd39,
       40px 40px 0px 0px #ffbd39, -40px -40px 0px 0px #ffbd39,
@@ -332,7 +331,7 @@
     width: 10px;
   }
 
-  95 {
+  95% {
     box-shadow: 0px 40px 0px 0px #ffbd39, 0px -40px 0px 0px #ffbd39,
       40px 0px 0px 0px #ffbd39, -40px 0px 0px 0px #ffbd39,
       40px 40px 0px 0px #ffbd39, -40px -40px 0px 0px #ffbd39,
@@ -414,7 +413,7 @@
     width: 10px;
   }
 
-  95 {
+  95% {
     box-shadow: 0px 40px 0px 0px #ffbd39, 0px -40px 0px 0px #ffbd39,
       40px 0px 0px 0px #ffbd39, -40px 0px 0px 0px #ffbd39,
       40px 40px 0px 0px #ffbd39, -40px -40px 0px 0px #ffbd39,
