@@ -26,7 +26,7 @@
   padding-top: 2rem;
 }
 .numbers-wrapper {
-  padding: 7.2rem 0;
+  padding: 3.2rem 0;
 }
 .custom-btn {
   border-radius: 50%;
@@ -41,6 +41,17 @@
   color: rgb(255, 255, 255);
   border-radius: 100%;
   background: radial-gradient(circle at 60px 80px, #ffbd39, #ffbd39);
+}
+.d-flex {
+  display: flex;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+.form-select {
+  width: 50% !important;
+  margin: 1rem auto;
 }
 @media only screen and (max-width: 600px) {
   .custom-btn {
